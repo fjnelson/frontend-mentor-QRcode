@@ -18,12 +18,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 This was the first challenge I did on Frontend Mentor
 ### Screenshot
 
-![](./images/screenshot.jpg)
+![](./images/screenshot.JPG)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/fjnelson/frontend-mentor-QRcode)
-- Live Site URL: [Add live site URL here](https://fjnelson.github.io/frontend-mentor-QRcode/)
+- [Solution URL](https://github.com/fjnelson/frontend-mentor-QRcode)
+- [Live Site URL](https://fjnelson.github.io/frontend-mentor-QRcode/)
 
 ## My process
 I worked in getting everything on the screen, then into a card, then placements/CSS.
